@@ -1,5 +1,5 @@
 default:
-  image: ruby:latest
+  image: ruby:3.2.2
   cache:
     - key:
         files:
