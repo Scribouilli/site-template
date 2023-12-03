@@ -22,6 +22,7 @@ pages:
     LC_ALL: C.UTF-8
   script:
     - bundle exec jekyll build -d public
+    - gzip -k -9 $(find public -iname '*.html' -o -iname '*.css' -o -iname '*.js' -o -iname '*.json') || true
   artifacts:
     paths:
     - public
