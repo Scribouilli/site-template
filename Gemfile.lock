@@ -1,6 +1,5 @@
 GIT
   remote: https://github.com/Scribouilli/mimoza.git
-  revision: 11029ac8dcc929d0cd609babacbe61d3fdc96637
   branch: main
   specs:
     mimoza (1.0.0)
