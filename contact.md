@@ -1,6 +1,6 @@
 ---
 title: Contact
-order: 1
+order: 3
 ---
 
 L'Échappée Belle est actuellement composée de 6 membres.
